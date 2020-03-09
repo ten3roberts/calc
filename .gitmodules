@@ -1,0 +1,9 @@
+[submodule "git@github.com:ten3roberts/lua.git"]
+	path = git@github.com:ten3roberts/lua.git
+	url = ./vendor/lua
+[submodule "vendor/src"]
+	path = vendor/src
+	url = git@github.com:ten3roberts/lua.git
+[submodule "vendor/lua"]
+	path = vendor/lua
+	url = git@github.com:ten3roberts/lua.git
